@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+	margin: 15px;
+}
+
+body {
+	background-color: solid red;
+
+}
+
+div {
+	color: green;
+	}
+
+h1 {text-align: center;}
